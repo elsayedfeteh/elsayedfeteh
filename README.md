@@ -63,7 +63,7 @@
 ```text
 ⚡ High-load Laravel APIs         → Queues, Workers, Horizon, Octane
 🔴 Real-time Systems              → WebSocket, Socket.IO, Pusher, SSE
-🤖 AI-Powered Backend Services   → RAG, LLM APIs, Function Calling, MCP
+🤖 AI-Powered Backend Services    → RAG, LLM APIs, Function Calling, MCP
 ☁️  Cloud Infrastructure          → AWS EC2, RDS, S3, SQS, SNS, CloudFront
 🧠 System Design                  → DDD, Clean Architecture, CQRS patterns
 🛡️  Security & Performance        → Rate limiting, Indexing, Query Optimization
