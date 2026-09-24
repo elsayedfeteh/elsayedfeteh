@@ -134,11 +134,17 @@ I don't just consume AI APIs — I **engineer AI-powered systems**:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elsayedfeteh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:elsayedfeteh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 </p>
 
