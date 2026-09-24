@@ -119,11 +119,11 @@ I don't just consume AI APIs — I **engineer AI-powered systems**:
 │   I design systems that scale, survive production,           │
 │   and keep working when everything else breaks.              │
 │                                                              │
-│   ✔  Performance is a feature, not an afterthought          │
-│   ✔  Queues > synchronous blocking calls                    │
-│   ✔  AI is infrastructure — treat it like any other API     │
-│   ✔  Clean architecture ships faster long-term              │
-│   ✔  Real production problems > theoretical perfection      │
+│   > Performance is a feature, not an afterthought            │
+│   > Queues > synchronous blocking calls                      │
+│   > AI is infrastructure - treat it like any other API       │
+│   > Clean architecture ships faster long-term                │
+│   > Real production problems > theoretical perfection        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
